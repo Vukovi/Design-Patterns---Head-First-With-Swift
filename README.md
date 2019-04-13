@@ -39,3 +39,10 @@ Abstract Factory obezbedjuje interfejs za kreiranje familije poveanih ili medjuz
 
 Abstract Factory pattern : UML
 ![Abstract Factory pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/05%20Abstract%20Factory%20Pattern/Abstract%20Factory%20Pattern.png?raw=true)
+
+## Command Pattern
+
+Command Pattern enkapsulira request kao objekat, tako da dozvoljava da se objektima moze manipulisati pomocu raznih parametara kao sto su razliciti requestovi, redosledi (redovi) ili log requestovi, a podrzava i prekidanje operacija drugom ili istom operacijom.
+
+Command pattern : UML
+![Command pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/06%20Command%20Pattern/Command%20Pattern.png?raw=true)
