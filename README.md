@@ -32,3 +32,10 @@ Simple Factory nije Design Pattern, vec idiom (osobenost) programiranja i cesto 
 
 Factory pattern : UML
 ![Factory pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/04%20Factory%20Pattern/Factory%20Pattern.png?raw=true)
+
+## Abstract Factory Pattern
+
+Abstract Factory obezbedjuje interfejs za kreiranje familije poveanih ili medjuzavisnih objekata bez specificiranja njihovih konkretnih klasa.
+
+Abstract Factory pattern : UML
+![Abstract Factory pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/05%20Abstract%20Factory%20Pattern/Abstract%20Factory%20Pattern.png?raw=true)
