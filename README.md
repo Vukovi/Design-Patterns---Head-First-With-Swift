@@ -23,3 +23,12 @@ Dekorator pattern dinamicki dodaje dodatne funkcionalnosti objektu i pruza fleks
 
 Decorator pattern : UML
 ![Decorator pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/03%20Decorator%20Pattern/Decorator%20Pattern.png?raw=true)
+
+## Factory Pattern
+
+Factory Method Pattern definise interfejs za kreiranje objekta, ali prepusta subklasama da odaberu koji objekat ce instancirati. On omogucavama nadklasama da instanciranje prepuste podklasama
+
+Simple Factory nije Design Pattern, vec idiom (osobenost) programiranja i cesto se zbog slicnosti mesa sa Factory Patternom.
+
+Factory pattern : UML
+![Factory pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/04%20Factory%20Pattern/Factory%20Pattern.png?raw=true)
