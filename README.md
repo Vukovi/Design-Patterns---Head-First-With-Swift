@@ -10,3 +10,9 @@ Strategy omogucava da su algoritmi nezavisni i da se razlikuju od zavisnosti od 
 Strategy pattern : UML
 ![Strategy pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/01%20Strategy%20Pattern/Strategy%20Pettern.png?raw=true)
 
+## Observer Pattern
+
+Observer pattern definise 1 na N zavisnosti izmedju objekata tako da kad jedan objekat promeni svoje stanje, svi zavisni objekti budu obavesteni o tome i azurairani automatski.
+
+Observer pattern : UML
+![Strategy pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/02%20Observer%20Pattern/Observer%20Pattern.png?raw=true)
