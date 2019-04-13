@@ -15,4 +15,11 @@ Strategy pattern : UML
 Observer pattern definise 1 na N zavisnosti izmedju objekata tako da kad jedan objekat promeni svoje stanje, svi zavisni objekti budu obavesteni o tome i azurairani automatski.
 
 Observer pattern : UML
-![Strategy pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/02%20Observer%20Pattern/Observer%20Pattern.png?raw=true)
+![Observer pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/02%20Observer%20Pattern/Observer%20Pattern.png?raw=true)
+
+## Decorator Pattern
+
+Dekorator pattern dinamicki dodaje dodatne funkcionalnosti objektu i pruza fleksibilnu alternativu nasledjivanju upravo radi prosirivanja funkcionalnosti.
+
+Decorator pattern : UML
+![Decorator pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/03%20Decorator%20Pattern/Decorator%20Pattern.png?raw=true)
