@@ -6,3 +6,7 @@
 
 Strategy pattern predstavlja familiju alogitama, enkapsulira svaki pojedinacno ali ih i cini medjosbno inter-operabilnim. 
 Strategy omogucava da su algoritmi nezavisni i da se razlikuju od zavisnosti od klijenata koji ih koriste.
+
+Strategy pattern : UML
+![Strategy pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/Strategy%20Pattern/Strategy%20Pettern.png)
+
