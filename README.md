@@ -46,3 +46,10 @@ Command Pattern enkapsulira request kao objekat, tako da dozvoljava da se objekt
 
 Command pattern : UML
 ![Command pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/06%20Command%20Pattern/Command%20Pattern.png?raw=true)
+
+## Adapter Pattern
+
+Adapter patern pretvara interfejs klase u pogodan interfejs koji neka druga klasa ocekuje, on omogucuje da klase budu kompatibilne iako to zaista nisu. Adapter patern je ukrqtko receno wrapper.
+
+Adapter pattern : UML
+![Adapter pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/07%20Adapter%20Pattern/Adapter%20Pattern.png?raw=true)
