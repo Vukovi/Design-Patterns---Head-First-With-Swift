@@ -60,3 +60,10 @@ Proxy Pattern obezbedjuje surogat ili neki drzac za odredjeni objekat, da bi se 
 
 Proxy pattern : UML
 ![Proxy pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/08%20Proxy%20Pattern/Proxy%20Pattern.png?raw=true)
+
+## Bridge Pattern
+
+Bridge Pattern ima namenu da rasclani funkcionalnost na apstrakciju i implementaciju, tako da se dobiju dva nezavisna dela koda koji se isto tako nezavisno mogu menjati.
+
+Bridge pattern : UML
+![Bridge pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/09%20Bridge%20Pattern/Bridge%20Pattern.png?raw=true)
