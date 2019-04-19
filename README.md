@@ -53,3 +53,10 @@ Adapter patern pretvara interfejs klase u pogodan interfejs koji neka druga klas
 
 Adapter pattern : UML
 ![Adapter pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/07%20Adapter%20Pattern/Adapter%20Pattern.png?raw=true)
+
+## Proxy Pattern
+
+Proxy Pattern obezbedjuje surogat ili neki drzac za odredjeni objekat, da bi se tom objektu moglo pristupiti. Postoje razni proxy patterni, npr virtualni, kesirani, remote, sigurnosni, sinhronizujuci, itd. Remote proxy sluzi kad hocu da pristupim nekom izvoru koji je na nekom drugom mestu (drugi modul, podatak na nekom serveru,…). Virtulani proxy kontrolise pristup objektu koji je skup za kreiranje (ovo moze biti kesiranje, primer sa Book Parserom). Protection proxy je menadzer pristupa, npr samo korisnici koji imaju odgovorajucu dozvolu mogu da pristupe pravom objektu.
+
+Proxy pattern : UML
+![Proxy pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/08%20Proxy%20Pattern/Proxy%20Pattern.png?raw=true)
