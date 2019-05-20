@@ -74,3 +74,14 @@ Template Method Pattern definise kostur algoritma operacija, ostavljajuci neke k
 
 Template Method pattern : UML
 ![Template Method pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/10%20Template%20Method%20Pattern%20/Template%20Method%20Pattern.png?raw=true)
+
+## Composite Pattern
+
+Composite pattern omogucava da se seriji obejkata naprave izmene kao sto su izmene koje bi mogle da se primene na pojedinacni objekat. Time se postize mogucnost da se ne vodi racuna da li si u kompozitnom delu ili zavrsnom delu (leaf-u). 
+Composite pattern je drvo strukture, tako da delovi strukture predstavljaju istovremeno i celine i delove ukupne hijerarhije drveta, a omogucava se interakcija sa pojedinacnim objektima na isti nacin kao i sa familijom objekata.
+
+S O L ( I ) D
+Klijenti ne treba da budu obavezni da se podvrgajvaju interfejsu koji ima metode koje konkretni klijent ne koristi.
+
+Composite pattern : UML
+![Composite pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/11%20Composite%20Pattern/Composite%20Pattern.png?raw=true)
