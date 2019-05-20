@@ -67,3 +67,10 @@ Bridge Pattern ima namenu da rasclani funkcionalnost na apstrakciju i implementa
 
 Bridge pattern : UML
 ![Bridge pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/09%20Bridge%20Pattern/Bridge%20Pattern.png?raw=true)
+
+## Template Method Pattern
+
+Template Method Pattern definise kostur algoritma operacija, ostavljajuci neke korake algoritma subklasama na razradu uz mogucnost da izmene te korake ali tako da ne menjaju kostur algoritma.
+
+Template Method pattern : UML
+![Template Method pattern](https://github.com/Vukovi/Design-Patterns---Head-First-With-Swift/blob/master/10%20Template%20Method%20Pattern%20/Template%20Method%20Pattern.png?raw=true)
